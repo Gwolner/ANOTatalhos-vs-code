@@ -1,4 +1,4 @@
-# Atalhos VS Code //EM ATUALIZAÇÃO!!
+# Atalhos VS Code
 
 > Compilado de atalhos usado no Visual Studio Code para aumentar a produtividade no desenvolvimento das aplicações.
 
@@ -6,10 +6,11 @@
 
 Para em caso de desconfiguração durante o uso dos atalhos, pode-se reiniciar as opções do editor de códigos da seguinte forma:
 
-Pressione f1, digite `user settings`, pressione enter, clica no icone planilha para abrir o arquivo `settings.json`. Agora é só apagar o conteúdo e salvar para redefinir as configurações.
+Pressione F1, digite `user settings`, pressione enter, clica no icone planilha para abrir o arquivo `settings.json`. Agora é só apagar o conteúdo e salvar para redefinir as configurações.
 
 
 ## Geral
+
 Ctrl + Shift + P, paleta de comando F1 Show <br>
 Ctrl + P Quick Open, vá para o arquivo ... <br>
 Ctrl + Shift + N Nova janela / instância <br>
@@ -19,6 +20,7 @@ Ctrl + K Ctrl + S Atalhos de teclado
 
 
 ## Edição básica
+
 Ctrl + X Linha de corte (seleção vazia) <br>
 Ctrl + C Copiar linha (seleção vazia) <br>
 Alt + ↑ / ↓ Mover linha para cima / baixo <br>
@@ -46,6 +48,7 @@ Alt + Z Toggle quebra automática de palavras
 
 
 ## Navegação
+
 Ctrl + T Mostrar todos os símbolos <br>
 Ctrl + G Ir para linha ... <br>
 Ctrl + P Ir para arquivo ... <br>
@@ -59,6 +62,7 @@ Ctrl + M Toggle Tab move o foco
 
 
 ## Pesquise e substitua
+
 Ctrl + F Encontrar <br>
 Ctrl + H Substituir <br>
 F3 / Shift + F3 Encontrar próximo / anterior <br>
@@ -69,6 +73,7 @@ Alt + C / R / W Alternar maiúsculas / minúsculas / regex / palavra inteira
 
 
 ## Multi-cursor e seleção
+
 Alt + Clique no cursor Inserir <br> 
 Ctrl + Alt + ↑ / ↓ Inserir cursor acima / abaixo <br>
 Ctrl + U Desfazer a última operação do cursor <br>
@@ -96,6 +101,7 @@ Ctrl + K M Alterar idioma do arquivo
 
 
 ## Gerenciamento de editor
+
 Ctrl + F4, Ctrl + W Fechar editor <br>
 Ctrl + K F Fechar pasta <br>
 Ctrl + \ Split editor <br>
@@ -106,6 +112,7 @@ Ctrl + K ← / → Mover o grupo do editor ativo
 
 
 ## Gerenciamento de arquivos
+
 Ctrl + N Novo Arquivo <br>
 Ctrl + O Abrir arquivo ... <br>
 Ctrl + S Salvar <br>
@@ -123,6 +130,7 @@ Ctrl + K O Mostra o arquivo ativo em uma nova janela / instância
 
 
 ## Exibição
+
 F11 Alternar tela cheia <br>
 Shift + Alt + 0 Alternar o layout do editor (horizontal / vertical) <br>
 Ctrl + = / - Zoom in / out <br>
@@ -141,6 +149,7 @@ Ctrl + KZ Modo Zen (Esc Esc para sair)
 
 
 ## Depurar
+
 F9 Alternar ponto de interrupção <br>
 F5 Iniciar / Continuar <br>
 Shift + F5 Stop <br>
@@ -150,8 +159,9 @@ Ctrl + K Ctrl + I Mostrar o cursor
 
 
 ## Terminal integrado
-Ctrl + `Mostrar terminal integrado <br>
-Ctrl + Shift + `Criar novo terminal <br>
+
+Ctrl + Mostrar terminal integrado <br>
+Ctrl + Shift + Criar novo terminal <br>
 Ctrl + C Copiar seleção <br>
 Ctrl + V Cole no terminal ativo <br>
 Ctrl + ↑ / ↓ Rola para cima / baixo <br>
