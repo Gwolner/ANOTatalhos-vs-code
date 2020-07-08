@@ -11,159 +11,159 @@ Pressione F1, digite `user settings`, pressione enter, clica no icone planilha p
 
 ## Geral
 
-Ctrl + Shift + P, paleta de comando F1 Show <br>
-Ctrl + P Quick Open, vá para o arquivo ... <br>
-Ctrl + Shift + N Nova janela / instância <br>
-Ctrl + Shift + W Fechar janela / instância <br>
-Ctrl +, configurações do usuário <br>
-Ctrl + K Ctrl + S Atalhos de teclado
+<b>Ctrl + Shift + P</b> paleta de comando F1 Show <br>
+<b>Ctrl + P</b> Quick Open, vá para o arquivo ... <br>
+<b>Ctrl + Shift + N</b> Nova janela / instância <br>
+<b>Ctrl + Shift + W</b> Fechar janela / instância <br>
+<b>Ctrl +,</b> configurações do usuário <br>
+<b>Ctrl + K Ctrl + S</b> Atalhos de teclado
 
 
 ## Edição básica
 
-Ctrl + X Linha de corte (seleção vazia) <br>
-Ctrl + C Copiar linha (seleção vazia) <br>
-Alt + ↑ / ↓ Mover linha para cima / baixo <br>
-Shift + Alt + ↓ / ↑ Copiar linha para cima / baixo <br>
-Ctrl + Shift + K Excluir linha <br>
-Ctrl + Enter Inserir linha abaixo <br>
-Ctrl + Shift + Enter Inserir linha acima <br>
-Ctrl + Shift + \ Ir para o suporte correspondente <br>
-Ctrl +] / [linha Indent / outdent Home / End Ir para o começo / fim da linha <br>
-Ctrl + Home Ir para o início do arquivo <br>
-Ctrl + End Ir para o final do arquivo <br>
-Ctrl + ↑ / ↓ Linha de rolagem para cima / baixo <br>
-Alt + PgUp / PgDn Rola a página para cima / baixo <br>
-Ctrl + Shift + [Dobre (colapse) a região <br>
-Ctrl + Shift +] Desdobrar (uncollapse) região <br>
-Ctrl + K Ctrl + [Dobre (reduza) todas as sub-regiões <br>
-Ctrl + K Ctrl +] Desdobra (uncollapse) todas as sub-regiões <br>
-Ctrl + K Ctrl + 0 Dobre (reduza) todas as regiões <br>
-Ctrl + K Ctrl + J Desdobra (uncollapse) todas as regiões <br>
-Ctrl + K Ctrl + C Adicionar comentário de linha <br>
-Ctrl + K Ctrl + U Remover comentário de linha <br>
-Ctrl + / Alternar comentário de linha <br>
-Shift + Alt + A Alternar comentário do bloco <br>
-Alt + Z Toggle quebra automática de palavras
+<b>Ctrl + X</b> Linha de corte (seleção vazia) <br>
+<b>Ctrl + C</b> Copiar linha (seleção vazia) <br>
+<b>Alt + ↑ / ↓</b> Mover linha para cima / baixo <br>
+<b>Shift + Alt + ↓ / ↑</b> Copiar linha para cima / baixo <br>
+<b>Ctrl + Shift + K</b> Excluir linha <br>
+<b>Ctrl + Enter</b> Inserir linha abaixo <br>
+<b>Ctrl + Shift + Enter</b> Inserir linha acima <br>
+<b>Ctrl + Shift + \</b> Ir para o suporte correspondente <br>
+<b>Ctrl + ] / [</b> Linha Indent / outdent Home / End Ir para o começo / fim da linha <br>
+<b>Ctrl + Home</b> Ir para o início do arquivo <br>
+<b>Ctrl + End</b> Ir para o final do arquivo <br>
+<b>Ctrl + ↑ / ↓</b> Linha de rolagem para cima / baixo <br>
+<b>Alt + PgUp / PgDn</b> Rola a página para cima / baixo <br>
+<b>Ctrl + Shift + [</b> Dobre (colapse) a região <br>
+<b>Ctrl + Shift + ]</b> Desdobrar (uncollapse) região <br>
+<b>Ctrl + K Ctrl + [</b>Dobre (reduza) todas as sub-regiões <br>
+<b>Ctrl + K Ctrl +]</b> Desdobra (uncollapse) todas as sub-regiões <br>
+<b>Ctrl + K Ctrl + 0</b> Dobre (reduza) todas as regiões <br>
+<b>Ctrl + K Ctrl + J</b> Desdobra (uncollapse) todas as regiões <br>
+<b>Ctrl + K Ctrl + C</b> Adicionar comentário de linha <br>
+<b>Ctrl + K Ctrl + U</b> Remover comentário de linha <br>
+<b>Ctrl + /</b> Alternar comentário de linha <br>
+<b>Shift + Alt + A</b> Alternar comentário do bloco <br>
+<b>Alt + Z</b> Toggle quebra automática de palavras
 
 
 ## Navegação
 
-Ctrl + T Mostrar todos os símbolos <br>
-Ctrl + G Ir para linha ... <br>
-Ctrl + P Ir para arquivo ... <br>
-Ctrl + Shift + O Ir para o símbolo ... <br>
-Ctrl + Shift + M Mostrar painel de problemas <br>
-F8 Ir para o próximo erro ou aviso <br>
-Shift + F8 Ir para erro ou aviso anterior <br>
-Ctrl + Shift + Tab Navegar pelo histórico do grupo de editor <br>
-Alt + ← / → Retroceder / avançar <br>
-Ctrl + M Toggle Tab move o foco
+<b>Ctrl + T</b> Mostrar todos os símbolos <br>
+<b>Ctrl + G</b> Ir para linha ... <br>
+<b>Ctrl + P</b> Ir para arquivo ... <br>
+<b>Ctrl + Shift + O</b> Ir para o símbolo ... <br>
+<b>Ctrl + Shift + M</b> Mostrar painel de problemas <br>
+<b>F8</b> Ir para o próximo erro ou aviso <br>
+<b>Shift + F8</b> Ir para erro ou aviso anterior <br>
+<b>Ctrl + Shift + Tab</b> Navegar pelo histórico do grupo de editor <br>
+<b>Alt + ← / →</b> Retroceder / avançar <br>
+<b>Ctrl + M</b> Toggle Tab move o foco
 
 
 ## Pesquise e substitua
 
-Ctrl + F Encontrar <br>
-Ctrl + H Substituir <br>
-F3 / Shift + F3 Encontrar próximo / anterior <br>
-Alt + Enter Seleciona todas as ocorrências de Encontrar correspondência <br>
-Ctrl + D Adicionar seleção ao próximo Encontrar jogo <br>
-Ctrl + K Ctrl + D Move a última seleção para a próxima Find match <br>
-Alt + C / R / W Alternar maiúsculas / minúsculas / regex / palavra inteira
+<b>Ctrl + F</b> Encontrar <br>
+<b>Ctrl + H</b> Substituir <br>
+<b>F3 / Shift + F3</b> Encontrar próximo / anterior <br>
+<b>Alt + Enter</b> Seleciona todas as ocorrências de Encontrar correspondência <br>
+<b>Ctrl + D</b> Adicionar seleção ao próximo Encontrar jogo <br>
+<b>Ctrl + K Ctrl + D</b> Move a última seleção para a próxima Find match <br>
+<b>Alt + C / R / W</b> Alternar maiúsculas / minúsculas / regex / palavra inteira
 
 
 ## Multi-cursor e seleção
 
-Alt + Clique no cursor Inserir <br> 
-Ctrl + Alt + ↑ / ↓ Inserir cursor acima / abaixo <br>
-Ctrl + U Desfazer a última operação do cursor <br>
-Shift + Alt + I Insere o cursor no final de cada linha selecionada <br>
-Ctrl + I Seleciona a linha atual <br>
-Ctrl + Shift + L Seleciona todas as ocorrências da seleção atual <br>
-Ctrl + F2 Seleciona todas as ocorrências da palavra atual <br>
-Shift + Alt + → Expandir seleção <br>
-Shift + Alt + ← Seleção de encolhimento <br>
-Shift + Alt + (arraste o mouse) Seleção de coluna (caixa) <br>
-Ctrl + Shift + Alt + (tecla de seta) Seleção de coluna (caixa) <br>
-Ctrl + Shift + Alt + PgUp / PgDn <br>
-Ctrl + Sugestão de acionamento de espaço <br>
-Ctrl + Shift + Espaço Dicas do parâmetro do acionador <br>
-Shift + Alt + F Formatar documento <br>
-Ctrl + K Ctrl + F Seleção de formato <br>
-F12 Ir para definição <br>
-Alt + F12 Peek Definition <br>
-Ctrl + K F12 Abrir Definição para o lado <br>
-Ctrl + Conserto rápido <br>
-Shift + F12 Mostrar referências <br>
-F2 Renomear Símbolo <br>
-Ctrl + K Ctrl + X Cortar espaços em branco à direita <br>
-Ctrl + K M Alterar idioma do arquivo
+<b>Alt + Clique no cursor</b> Inserir <br> 
+<b>Ctrl + Alt + ↑ / ↓</b> Inserir cursor acima / abaixo <br>
+<b>Ctrl + U</b> Desfazer a última operação do cursor <br>
+<b>Shift + Alt + I</b> Insere o cursor no final de cada linha selecionada <br>
+<b>Ctrl + I</b> Seleciona a linha atual <br>
+<b>Ctrl + Shift + L</b> Seleciona todas as ocorrências da seleção atual <br>
+<b>Ctrl + F2</b> Seleciona todas as ocorrências da palavra atual <br>
+<b>Shift + Alt + →</b> Expandir seleção <br>
+<b>Shift + Alt + ←</b> Seleção de encolhimento <br>
+<b>Shift + Alt + (arraste o mouse)</b> Seleção de coluna (caixa) <br>
+<b>Ctrl + Shift + Alt + (tecla de seta)</b> Seleção de coluna (caixa) <br>
+<b>Ctrl + Shift + Alt + PgUp / PgDn <br>
+<b>Ctrl + </b>Sugestão de acionamento de espaço <br>
+<b>Ctrl + Shift + </b>Espaço Dicas do parâmetro do acionador <br>
+<b>Shift + Alt + F</b> Formatar documento <br>
+<b>Ctrl + K Ctrl + F</b> Seleção de formato <br>
+<b>F12</b> Ir para definição <br>
+<b>Alt + F12</b> Peek Definition <br>
+<b>Ctrl + K F12</b> Abrir Definição para o lado <br>
+<b>Ctrl + </b> Conserto rápido <br>
+<b>Shift + F12</b> Mostrar referências <br>
+<b>F2</b> Renomear Símbolo <br>
+<b>Ctrl + K Ctrl + X</b> Cortar espaços em branco à direita <br>
+<b>Ctrl + K M</b> Alterar idioma do arquivo
 
 
 ## Gerenciamento de editor
 
-Ctrl + F4, Ctrl + W Fechar editor <br>
-Ctrl + K F Fechar pasta <br>
-Ctrl + \ Split editor <br>
-Ctrl + 1/2/3 Concentre-se em 1 2º, 3º ou 3º grupo de editores <br>
-Ctrl + K Ctrl + ← / → Concentra-se no grupo de editores anterior / seguinte <br>
-Ctrl + Shift + PgUp / PgDn Mover editor para a esquerda / direita <br>
-Ctrl + K ← / → Mover o grupo do editor ativo
+<b>Ctrl + F4, Ctrl + W</b> Fechar editor <br>
+<b>Ctrl + K F</b> Fechar pasta <br>
+<b>Ctrl + \</b> Split editor <br>
+<b>Ctrl + 1/2/3</b> Concentre-se em 1 2º, 3º ou 3º grupo de editores <br>
+<b>Ctrl + K Ctrl + ← / →</b> Concentra-se no grupo de editores anterior / seguinte <br>
+<b>Ctrl + Shift + PgUp / PgDn</b> Mover editor para a esquerda / direita <br>
+<b>Ctrl + K ← / →</b> Mover o grupo do editor ativo
 
 
 ## Gerenciamento de arquivos
 
-Ctrl + N Novo Arquivo <br>
-Ctrl + O Abrir arquivo ... <br>
-Ctrl + S Salvar <br>
-Ctrl + Shift + S Salvar como ... <br>
-Ctrl + K S Salvar tudo <br>
-Ctrl + F4 Close <br>
-Ctrl + K Ctrl + W Fechar tudo <br>
-Ctrl + Shift + T reabrir editor fechado <br>
-Ctrl + K Enter Manter o editor do modo de visualização aberto <br>
-Ctrl + Tab Aberto ao lado <br>
-Ctrl + Shift + Tab Abrir anterior <br>
-Ctrl + K P Caminho de cópia do arquivo ativo <br>
-Ctrl + K R Revela o arquivo ativo no Explorer <br>
-Ctrl + K O Mostra o arquivo ativo em uma nova janela / instância
+<b>Ctrl + N</b> Novo Arquivo <br>
+<b>Ctrl + O</b> Abrir arquivo ... <br>
+<b>Ctrl + S</b> Salvar <br>
+<b>Ctrl + Shift + S</b> Salvar como ... <br>
+<b>Ctrl + K S</b> Salvar tudo <br>
+<b>Ctrl + F4</b> Close <br>
+<b>Ctrl + K Ctrl + W</b> Fechar tudo <br>
+<b>Ctrl + Shift + T</b> reabrir editor fechado <br>
+<b>Ctrl + K Enter</b> Manter o editor do modo de visualização aberto <br>
+<b>Ctrl + Tab</b> Aberto ao lado <br>
+<b>Ctrl + Shift + Tab</b> Abrir anterior <br>
+<b>Ctrl + K P</b>Caminho de cópia do arquivo ativo <br>
+<b>Ctrl + K R</b>Revela o arquivo ativo no Explorer <br>
+<b>Ctrl + K O</b>Mostra o arquivo ativo em uma nova janela / instância
 
 
 ## Exibição
 
-F11 Alternar tela cheia <br>
-Shift + Alt + 0 Alternar o layout do editor (horizontal / vertical) <br>
-Ctrl + = / - Zoom in / out <br>
-Ctrl + B Alterna a visibilidade da barra lateral <br>
-Ctrl + Shift + E Mostrar o Explorer / Alternar o foco <br>
-Ctrl + Shift + F Mostrar pesquisa <br>
-Ctrl + Shift + G Mostrar controle de código-fonte <br>
-Ctrl + Shift + D Mostrar depuração <br>
-Ctrl + Shift + X Mostrar extensões <br>
-Ctrl + Shift + H Substituir nos arquivos <br>
-Ctrl + Shift + J Toggle Detalhes da pesquisa <br>
-Ctrl + Shift + U Mostrar painel de saída <br>
-Ctrl + Shift + V Abra a pré-visualização do Markdown <br>
-Ctrl + K V Abre a pré-visualização do Markdown para o lado <br>
-Ctrl + KZ Modo Zen (Esc Esc para sair)
+<b>F11</b> Alternar tela cheia <br>
+<b>Shift + Alt + 0</b> Alternar o layout do editor (horizontal / vertical) <br>
+<b>Ctrl + = / -</b> Zoom in / out <br>
+<b>Ctrl + B</b> Alterna a visibilidade da barra lateral <br>
+<b>Ctrl + Shift + E</b> Mostrar o Explorer / Alternar o foco <br>
+<b>Ctrl + Shift + F</b> Mostrar pesquisa <br>
+<b>Ctrl + Shift + G</b> Mostrar controle de código-fonte <br>
+<b>Ctrl + Shift + D</b> Mostrar depuração <br>
+<b>Ctrl + Shift + X</b> Mostrar extensões <br>
+<b>Ctrl + Shift + H</b> Substituir nos arquivos <br>
+<b>Ctrl + Shift + J</b> Toggle Detalhes da pesquisa <br>
+<b>Ctrl + Shift + U</b> Mostrar painel de saída <br>
+<b>Ctrl + Shift + V</b> Abra a pré-visualização do Markdown <br>
+<b>Ctrl + K V</b> Abre a pré-visualização do Markdown para o lado <br>
+<b>Ctrl + KZ</b> Modo Zen (Esc Esc para sair)
 
 
 ## Depurar
 
-F9 Alternar ponto de interrupção <br>
-F5 Iniciar / Continuar <br>
-Shift + F5 Stop <br>
-F11 / Shift + F11 Passo para dentro / fora <br>
-F10 Passar por cima <br>
-Ctrl + K Ctrl + I Mostrar o cursor
+<b>F9</b> Alternar ponto de interrupção <br>
+<b>F5</b> Iniciar / Continuar <br>
+<b>Shift + F5</b> Stop <br>
+<b>F11 / Shift + F11</b> Passo para dentro / fora <br>
+<b>F10</b> Passar por cima <br>
+<b>Ctrl + K Ctrl + I</b> Mostrar o cursor
 
 
 ## Terminal integrado
 
-Ctrl + Mostrar terminal integrado <br>
-Ctrl + Shift + Criar novo terminal <br>
-Ctrl + C Copiar seleção <br>
-Ctrl + V Cole no terminal ativo <br>
-Ctrl + ↑ / ↓ Rola para cima / baixo <br>
-Shift + PgUp / PgDn Rola a página para cima / baixo <br>
-Ctrl + Home / End Rola para cima / baixo
+<b>Ctrl + Mostrar terminal integrado</b> <br>
+<b>Ctrl + Shift + Criar novo terminal</b> <br>
+<b>Ctrl + C</b> Copiar seleção <br>
+<b>Ctrl + V</b> Cole no terminal ativo <br>
+<b>Ctrl + ↑ / ↓</b> Rola para cima / baixo <br>
+<b>Shift + PgUp / PgDn</b> Rola a página para cima / baixo <br>
+<b>Ctrl + Home / End</b> Rola para cima / baixo
