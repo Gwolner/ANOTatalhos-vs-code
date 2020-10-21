@@ -11,12 +11,12 @@ Pressione F1, digite `user settings`, pressione enter, clica no icone planilha p
 
 ## Geral
 
-<b>Ctrl + Shift + P</b> paleta de comando F1 Show <br>
-<b>Ctrl + P</b> Quick Open, vá para o arquivo ... <br>
-<b>Ctrl + Shift + N</b> Nova janela / instância <br>
-<b>Ctrl + Shift + W</b> Fechar janela / instância <br>
-<b>Ctrl +,</b> configurações do usuário <br>
-<b>Ctrl + K Ctrl + S</b> Atalhos de teclado
+**Ctrl + Shift + P** paleta de comando F1 Show <br>
+**Ctrl + P** Quick Open, vá para o arquivo ... <br>
+**Ctrl + Shift + N** Nova janela / instância <br>
+**Ctrl + Shift + W** Fechar janela / instância <br>
+**Ctrl +,** configurações do usuário <br>
+**Ctrl + K Ctrl + S** Atalhos de teclado
 
 
 ## Edição básica
